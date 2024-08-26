@@ -264,12 +264,12 @@ menu.run()
 # Installation and Running
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/student-management-system.git
+   README.md
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 student-management-system
 
-3. Run the program:
+4. Run the program:
    python main.py
 
 # How to Use
