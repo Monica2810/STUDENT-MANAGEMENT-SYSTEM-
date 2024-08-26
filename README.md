@@ -247,7 +247,9 @@ class MenuSystem:
         """Display all students in the system."""
         print(self.system.list_students())
 
-
+# Example usage
+menu = MenuSystem()
+menu.run()
 
 
 # Features
@@ -267,10 +269,9 @@ class MenuSystem:
    https://github.com/Monica2810/STUDENT-MANAGEMENT-SYSTEM-.git
 
 3. Navigate to the project directory:
-student-management-system
+student-management-system-
 
-4. Run the program:
-   python main.py
+4. Run the program in a python IDE
 
 # How to Use
 
@@ -284,7 +285,8 @@ Update Student: Enter the student's ID, and optionally update their name, age, a
 
 View All Students: Display a list of all students in the system.
 
-Exit: Exit the program
+Exit: Exit the program.
+
 
    # Refactoring Changes
    
