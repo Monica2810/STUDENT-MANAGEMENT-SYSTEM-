@@ -5,9 +5,9 @@ A simple Python-based system to manage students' data. This program allows users
 The following is the refactored code: 
 
 class Student:
-    """
+
     A class representing a student.
-    
+    """
     Attributes:
     id (int): The student's unique identifier.
     name (str): The student's name.
@@ -248,23 +248,23 @@ class MenuSystem:
         print(self.system.list_students())
 
 
-# Example usage
-menu = MenuSystem()
-menu.run()
 
 
 # Features
 
 -Add a new student with ID, name, age, and major.
+
 -Delete a student by ID.
 -Update a student's information (name, age, and major).
+
 -View a list of all students.
+
 -Simple text-based menu for user interaction.
 
 # Installation and Running
 
 1. Clone the repository to your local machine:
-   README.md
+   https://github.com/Monica2810/STUDENT-MANAGEMENT-SYSTEM-.git
 
 3. Navigate to the project directory:
 student-management-system
